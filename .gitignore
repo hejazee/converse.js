@@ -8,8 +8,8 @@
 .svn/
 .project
 .pydevproject
-node_modules
-components
+#node_modules
+#components
 docs/doctrees/environment.pickle
 tags
 test-reports
